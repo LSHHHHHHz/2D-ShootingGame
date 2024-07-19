@@ -21,5 +21,7 @@ public class Enemy : MonoBehaviour
     private void OnEnable()
     {
         elapsed = 0;
+
+        //Test!!! �귣ġ!!
     }
 }
